@@ -60,8 +60,6 @@ class Demo9{
 		}
 
 */
-
-		
 		//遍历数组，查看效果
 		System.out.print("目前的元素：");
 		for (int i = 0 ; i<arr.length  ;i++){
